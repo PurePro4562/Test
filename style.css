@@ -19,6 +19,7 @@ h1 {
    background: rgb(0,255,48);
 background-image: linear-gradient(to left, red, magenta);
   overflow: hidden;
+  border-radius: 50px;
 }
 
 /* Style the links inside the navigation bar */
@@ -30,6 +31,7 @@ background-image: linear-gradient(to left, red, magenta);
   text-decoration: none;
   font-family: monospace;
   font-size: 17px;
+  border-radius: 50px;
 }
 
 /* Change the color of links on hover */
