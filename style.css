@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to right, lime, aqua);
+  background-image: linear-gradient(to right, yellow, magenta);
 }
 
 p {
@@ -17,7 +17,7 @@ h1 {
 /* Add a black background color to the top navigation */
 .topnav {
    background: rgb(0,255,48);
-background: black;
+background: white;
   overflow: hidden;
 }
 
