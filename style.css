@@ -17,7 +17,7 @@ h1 {
 /* Add a black background color to the top navigation */
 .topnav {
    background: rgb(0,255,48);
-background-image: linear-gradient(to left, red, magenta);
+background-image: linear-gradient(to left, gray, white);
   overflow: hidden;
   border-radius: 50px;
 }
